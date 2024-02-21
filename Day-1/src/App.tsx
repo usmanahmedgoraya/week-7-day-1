@@ -146,9 +146,9 @@ const App: React.FC = () => {
               type="submit"
               className={`${
                 error && "bg-red-500"
-              } z-30 absolute top-[50%] translate-y-[-50%] right-[1px] h-[45px] w-[45px] rounded-full bg-black text-white`}
+              } z-30 absolute top-[50%] translate-y-[-50%] right-[2px] h-[45px] w-[60px] rounded-r-full rounded bg-black text-white`}
             >
-              NEW
+            ADD
             </button>
           </form>
         </div>

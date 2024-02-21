@@ -1,6 +1,6 @@
 body{
-    background: rgb(69,120,199);
-    background: linear-gradient(90deg, rgba(69,120,199,1) 0%, rgba(141,191,240,1) 100%);
+    background: rgb(222, 187, 90);
+    background: linear-gradient(90deg, rgb(233, 199, 67) 0%, rgb(250, 248, 130) 100%);
 }
 .bg-light{
     background: #d7d8dc !important;
